@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title>Wumpus Game - IA02 (Ivan Mauricio Parra)</title>
+	<title>Wumpus Game - IA02</title>
 	<link rel="stylesheet" type="text/css" href="css/estilo.css">
 	<script src = "js/script.js"></script>
 </head>
